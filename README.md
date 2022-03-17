@@ -1,5 +1,7 @@
 # SWE_of_Bathymetry.m
 
+[![View SWE_of_Bathymetry on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/108139-swe_of_bathymetry)
+
 (c) Gabriella Alodia &#8212; 2021
 
 <tt>SWE_of_Bathymetry.m</tt> is a Matlab-based geomorphometric algorithm to obtain the numerical description of both magmatic and tectonic crust in a slow-spreading ridge through a series of calculation based on the distribution of the azimuth and plunge observed in the seafloor morphology.
