@@ -31,4 +31,4 @@ Alodia, G., Green, C., McCaig, A., & Paton, D. (2020). Slope-Weighted Eccentrici
 
 Alodia, G., Green, C., McCaig, A., & Paton, D. (2020). A novel approach for oceanic spreading terrain classification at the Mid-Atlantic Ridge using Eigenvalues of high-resolution bathymetry. In EGU General Assembly Conference Abstracts (p. 337). [https://presentations.copernicus.org/EGU2020/EGU2020-337_presentation.pdf]
 
-Full paper currently under review.
+Full paper currently under review in <b>Computers and Geosciences</b> journal.
