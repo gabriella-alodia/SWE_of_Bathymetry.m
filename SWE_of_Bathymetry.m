@@ -95,11 +95,10 @@ lon_rs=[lon_EW' lon_input2 lon_EW'];
 lat_rs=[lat_W' lat_input2 lat_E'];
 
 %% LoG filter: Mask building
-%  !!! This section might need to be run twice !!!
 
 depth_im=mat2gray(depth_rs);
 
-h = fspecial('log',33,0.1);      % Window size: 33 x 33
+h = fspecial('log',winsize+1,0.1);      
 I2 = imfilter(depth_im,h);
 
 for i=1:length(I2(:,1))
