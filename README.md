@@ -23,12 +23,12 @@ Each output is exported in *.xyz format. The resulting *.xyz data can be convert
 
 The shipborne multibeam bathymetry data sample is downloaded from the GMRT MapTool (https://www.gmrt.org/GMRTMapTool/) with the extent <tt>xmin/xmax/ymin/ymax</tt> of <tt>-46/-44/12.5/13.15</tt>
 
-<b>Preprint Citation:</b>
+<b>Full paper:</b>
 
-Alodia, G., Green, C., McCaig, A., & Paton, D. (2020). Slope-Weighted Eccentricity: Automatic Terrain Classification of Atlantic Ocean Crust. ESSOAr: Earth and Space Science Open Archive. [https://doi.org/10.1002/essoar.10502634.1]
+Alodia, G., Green, C. M., & McCaig, A. M. (2022). SWE_of_Bathymetry.m: A geomorphometric tool to automate discrimination between detachment and magmatic seafloor at slow-spreading ridges from shipboard multibeam bathymetry, Computers & Geosciences, Volume 166, 105177. [https://doi.org/10.1016/j.cageo.2022.105177]
 
-<b>EGU Presentation:</b>
+<b>Preprint & EGU Presentation:</b>
 
 Alodia, G., Green, C., McCaig, A., & Paton, D. (2020). A novel approach for oceanic spreading terrain classification at the Mid-Atlantic Ridge using Eigenvalues of high-resolution bathymetry. In EGU General Assembly Conference Abstracts (p. 337). [https://presentations.copernicus.org/EGU2020/EGU2020-337_presentation.pdf]
 
-Full paper currently under review in <b>Computers and Geosciences</b> journal.
+Alodia, G., Green, C., McCaig, A., & Paton, D. (2020). Slope-Weighted Eccentricity: Automatic Terrain Classification of Atlantic Ocean Crust. ESSOAr: Earth and Space Science Open Archive. [https://doi.org/10.1002/essoar.10502634.1]
